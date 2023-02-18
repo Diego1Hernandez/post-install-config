@@ -161,7 +161,7 @@ In the admin panel
 - Select Add Plan
 	
 <p align="center">
-<img src="https://imgur.com/GjQUZX8.png" height="80%" width="80%" alt="Azure Free Services"/>
+<img src="https://imgur.com/GjQUZX8.png" height="80%" width="80%" />
 </p>
 
 - Name: SEV-C 
@@ -170,7 +170,7 @@ In the admin panel
 - Select Add Plan
 
 <p align="center">
-<img src="https://i.imgur.com/TPhqU1c.png" height="80%" width="80%" alt="Azure Free Account"/>
+<img src="https://i.imgur.com/TPhqU1c.png" height="80%" width="80%" />
 	
 
 	
@@ -185,8 +185,8 @@ In the admin panel
 - Select Add Topic for each topic
 
 <p align="center">
-<img src="https://i.imgur.com/uFmSyqK.png" height="80%" width="80%" alt="Azure Free Account"/>
-<img src="https://i.imgur.com/PVlJh4x.png" height="80%" width="80%" alt="Azure Free Account"/>
+<img src="https://i.imgur.com/uFmSyqK.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/PVlJh4x.png" height="80%" width="80%" />
 
 Done.
 
