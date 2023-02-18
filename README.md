@@ -161,7 +161,7 @@ In the admin panel
 - Select Add Plan
 	
 <p align="center">
-<img src="https://i.imgur.com/GjQUZX8P.png" height="80%" width="80%" alt="Azure Free Services"/>
+<img src="https://i.imgur.com/GjQUZX8P.png" height="80%" width="80%" />
 </p>
 
 - Name: SEV-C 
