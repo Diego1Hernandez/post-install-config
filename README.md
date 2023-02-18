@@ -66,14 +66,13 @@ In the admin panel
 </p>
 <p>	
 	
-<h2>Open permissions to allow anyone to create tickets</h2>
+<h2>Open Permissions to Allow Anyone to Create Tickets</h2>
 
  In the admin panel 
 - Select the Settings -> User Settings
-- Make sure box the "Registration Required: Require registration and login to create tickets"is unchecked:  
+- Make sure box the "Registration Required: "Require registration and login to create tickets"is unchecked:  
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/wrnMuN9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>		
 	
@@ -90,8 +89,8 @@ In the admin panel
 		- set
 		- 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/IqORAgl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/c9AkP3L.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 - Select Access tab 
@@ -106,8 +105,8 @@ In the admin panel
 - Select Create	
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/cIc3Nhz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/c9AkP3L.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 - Create another agent named john and repeat the process again.
