@@ -38,7 +38,7 @@ In the admin panel
 	- Select Permissions tab and check every box under the "Tickets", "Tasks" and "Knowledgebase" section
 - Select Add Role
 <p>
-<img src="https://i.imgur.com/cT6DZrl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Dy6uQiW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <h2>Configure Departments</h2>
@@ -105,8 +105,8 @@ In the admin panel
 - Select Create	
 
 <p>
-<img src="https://imgur.com/cIc3Nhz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/c9AkP3L.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/cT6DZrl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/9KosaQZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 - Create another agent named john and repeat the process again.
@@ -117,9 +117,10 @@ In the admin panel
 		- Select Department -> Support -> Save Changes
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/cIc3Nhz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/c9AkP3L.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
 
 
 <h2>Configure Users</h2>
@@ -132,7 +133,7 @@ In the admin panel
 	- Select Add User
 
 <p align="center">
-<img src="https://i.imgur.com/wpTn12W.png" height="80%" width="80%" alt="Azure Free Account"/>
+<img src="https://i.imgur.com/uDry69l.png" height="80%" width="80%" alt="Azure Free Account"/>
 
 - Select user tab again to create another user
 	- Email Address: Ken@osticket.com
@@ -140,7 +141,7 @@ In the admin panel
 	- Select Add User
 
 <p align="center">
-<img src="https://i.imgur.com/EXyy5Gq.png" height="80%" width="80%" alt="Azure Free Account"/>
+<img src="https://i.imgur.com/FploSL2.png" height="80%" width="80%" alt="Azure Free Account"/>
 
 
 <h2>Configure Service Level Agreements(SLAs)</h2>
@@ -153,7 +154,7 @@ In the admin panel
 	- Select Add Plan	
 	
 <p align="center">
-<img src="https://i.imgur.com/fMR4yMR.png" height="80%" width="80%" alt="Azure Free Account"/> <img src="https://i.imgur.com/3tQnihq.png" height="80%" width="80%" alt="Azure Free Services"/>
+<img src="https://i.imgur.com/RTQAZqQ.png" height="80%" width="80%" alt="Azure Free Account"/> <img src="https://i.imgur.com/nLy3nPA.png" height="80%" width="80%" alt="Azure Free Services"/>
 </p>
 
 - Name: SEV-B
@@ -162,7 +163,7 @@ In the admin panel
 - Select Add Plan
 	
 <p align="center">
-<img src="https://i.imgur.com/pAbQPEP.png" height="80%" width="80%" alt="Azure Free Account"/>
+<img src="https://i.imgur.com/GjQUZX8P.png" height="80%" width="80%" alt="Azure Free Account"/>
 
 - Name: SEV-C 
 - Grace Period: 8
@@ -170,7 +171,7 @@ In the admin panel
 - Select Add Plan
 
 <p align="center">
-<img src="https://i.imgur.com/5cgn0oz.png" height="80%" width="80%" alt="Azure Free Account"/>
+<img src="https://i.imgur.com/TPhqU1c.png" height="80%" width="80%" alt="Azure Free Account"/>
 	
 
 	
@@ -186,7 +187,7 @@ In the admin panel
 
 <p align="center">
 <img src="https://i.imgur.com/uFmSyqK.png" height="80%" width="80%" alt="Azure Free Account"/>
-
+<img src="https://i.imgur.com/PVlJh4x.png" height="80%" width="80%" alt="Azure Free Account"/>
 
 Done.
 
