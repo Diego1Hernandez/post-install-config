@@ -131,7 +131,7 @@ In the admin panel
 	- Select Add User
 
 <p align="center">
-<img src="https://i.imgur.com/uDry69l.png" height="80%" width="80%" alt="Azure Free Account"/>
+<img src="https://i.imgur.com/uDry69l.png" height="80%" width="80%" />
 
 - Select user tab again to create another user
 	- Email Address: Ken@osticket.com
@@ -139,7 +139,7 @@ In the admin panel
 	- Select Add User
 
 <p align="center">
-<img src="https://i.imgur.com/FploSL2.png" height="80%" width="80%" alt="Azure Free Account"/>
+<img src="https://i.imgur.com/FploSL2.png" height="80%" width="80%" />
 
 
 <h2>Configure Service Level Agreements(SLAs)</h2>
@@ -152,7 +152,7 @@ In the admin panel
 	- Select Add Plan	
 	
 <p align="center">
-<img src="https://i.imgur.com/RTQAZqQ.png" height="80%" width="80%" alt="Azure Free Account"/> <img src="https://i.imgur.com/nLy3nPA.png" height="80%" width="80%" alt="Azure Free Services"/>
+<img src="https://i.imgur.com/RTQAZqQ.png" height="80%" width="80%" /> <img src="https://i.imgur.com/nLy3nPA.png" height="80%" width="80%" alt=/>
 </p>
 
 - Name: SEV-B
