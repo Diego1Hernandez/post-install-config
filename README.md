@@ -38,18 +38,18 @@ In the admin panel
 	- Select Permissions tab and check every box under the "Tickets", "Tasks" and "Knowledgebase" section
 - Select Add Role
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/cT6DZrl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <h2>Configure Departments</h2>
 
-In the admin panel
+- In the admin panel
 - Select the Agents tab -> Departments -> Add New Department 
 	- Name: System Administrators
 - Select Create Deptartment 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Q6eyyYZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/rjvmSSp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>	
 	
@@ -61,8 +61,8 @@ In the admin panel
 - Go to members tab and select yourself in "Select Agent" dropdown menu
 - Select create team. 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ZVMQCgr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/obTQZlK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>	
 	
