@@ -87,7 +87,6 @@ In the admin panel
 		- Set your password
 		- uncheck "require password change at next login" box
 		- set
-		- 
 <p>
 <img src="https://i.imgur.com/IqORAgl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/c9AkP3L.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -110,7 +109,7 @@ In the admin panel
 </p>
 
 - Create another agent named john and repeat the process again.
-	- Follow same steps as above except make some changes to Primary Department
+	- Follow same steps as above with some changes to Primary Department
 		- Select department dropdown menu -> Support
 		- Select Role dropdown menu -> View only
 	- Extended Accesss 
@@ -125,8 +124,7 @@ In the admin panel
 
 <h2>Configure Users</h2>
 
-- Make sure you are in Agent panel (check top right to see which panel you are in)
-	- If the top right says "admin" you are in the agent panel
+- In the Agent panel
 - Select Users tab to create user
 	- Email Address: Karen@osticket.com
 	- Full Name - Karen Karen
@@ -164,6 +162,7 @@ In the admin panel
 	
 <p align="center">
 <img src="https://i.imgur.com/GjQUZX8P.png" height="80%" width="80%" alt="Azure Free Account"/>
+</p>
 
 - Name: SEV-C 
 - Grace Period: 8
